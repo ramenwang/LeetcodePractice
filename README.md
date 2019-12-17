@@ -4,7 +4,7 @@
 
 3. [longest substring](https://github.com/ramenwang/LeetcodePractice/blob/master/longest-substring-without-repeating-characters.py) | [leet code teleport](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-4. [median of two sorted arrays](https://github.com/ramenwang/LeetcodePractice/blob/master/median-of-two-sorted-arrays.py) | leet code teleport](https://leetcode.com/problems/median-of-two-sorted-arrays)
+4. [median of two sorted arrays](https://github.com/ramenwang/LeetcodePractice/blob/master/median-of-two-sorted-arrays.py) | [leet code teleport](https://leetcode.com/problems/median-of-two-sorted-arrays)
 
 7. [reverse integer](https://github.com/ramenwang/LeetcodePractice/blob/master/reverse-integer.py) | [leet code teleport](https://leetcode.com/problems/reverse-integer/)
 
