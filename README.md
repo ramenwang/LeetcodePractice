@@ -10,6 +10,8 @@
 
 9. [palindrome number](https://github.com/ramenwang/LeetcodePractice/blob/master/palindrome-number.py) | [leet code teleport](https://leetcode.com/problems/palindrome-number/)
 
+771. [jewels and stones](https://github.com/ramenwang/LeetcodePractice/blob/master/jewels-and-stones.py) | [leet code teleport](https://leetcode.com/problems/jewels-and-stones/)
+
 1108. [defanging an ip address](https://github.com/ramenwang/LeetcodePractice/blob/master/defanging-an-ip-address.py) | [leet code teleport](https://leetcode.com/problems/defanging-an-ip-address/)
 
 1114. [print in order](https://github.com/ramenwang/LeetcodePractice/blob/master/print-in-order.py) | [leet code teleport](https://leetcode.com/problems/print-in-order/)
