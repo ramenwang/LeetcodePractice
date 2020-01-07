@@ -17,3 +17,7 @@
 1114. [print in order](https://github.com/ramenwang/LeetcodePractice/blob/master/print-in-order.py) | [leet code teleport](https://leetcode.com/problems/print-in-order/)
 
 1290. [convert binary number in a linked list to integer](https://github.com/ramenwang/LeetcodePractice/blob/master/convert-binary-number-in-a-linked-list-to-integer.py) | [leet code teleport](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+
+1295. [find numbers with even number of digits](https://github.com/ramenwang/LeetcodePractice/blob/master/find-numbers-with-even-number-of-digits.py) | [leet code teleport](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
+
+
