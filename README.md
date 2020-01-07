@@ -20,4 +20,8 @@
 
 1295. [find numbers with even number of digits](https://github.com/ramenwang/LeetcodePractice/blob/master/find-numbers-with-even-number-of-digits.py) | [leet code teleport](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
 
+1309. [decrypt string from alphabet to integer mapping](https://github.com/ramenwang/LeetcodePractice/blob/master/decrypt-string-from-alphabet-to-integer-mapping.py) | [leet code teleport](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)
+
+
+
 
